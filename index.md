@@ -1,12 +1,14 @@
 ---
-layout: default
-title: Página Inicial
+layout: home
+title: Bem-vindo
 ---
 
-# Bem-vindo ao meu site 🎉
+# Olá, mundo! 👋
 
-Este site foi feito com **Jekyll** e hospedado no **GitHub Pages**.
+Este é meu **site com Jekyll** hospedado no **GitHub Pages**.
 
-- Fácil de editar
+## Recursos:
+- Layout pronto com o tema `minima`
 - Suporte a Markdown
-- Layouts prontos
+- Possibilidade de criar blog com posts
+- Fácil de editar e atualizar
