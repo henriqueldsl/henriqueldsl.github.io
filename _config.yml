@@ -1,3 +1,13 @@
-title: Meu Site no Jekyll
-description: Um site simples usando Jekyll no GitHub Pages
+title: Meu Site Jekyll
+description: Um site simples usando Jekyll e GitHub Pages
+baseurl: ""  # deixe vazio para site pessoal
+url: "https://seu-usuario.github.io"
 theme: minima
+
+# menu do site
+collections:
+  - posts
+
+# Configurações adicionais
+markdown: kramdown
+
